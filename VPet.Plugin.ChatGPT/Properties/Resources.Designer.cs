@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace VPet.Plugin.ChatGPTPlugin.Properties {
+namespace VPet.Plugin.ChatGLMPlugin.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace VPet.Plugin.ChatGPTPlugin.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("VPet.Plugin.ChatGPTPlugin.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("VPet.Plugin.ChatGLMPlugin.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

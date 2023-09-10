@@ -7,11 +7,11 @@ using System.Windows;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("VPet.Plugin.ChatGPTPlugin")]
+[assembly: AssemblyTitle("VPet.Plugin.ChatGLMPlugin")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("VPet.Plugin.ChatGPTPlugin")]
+[assembly: AssemblyProduct("VPet.Plugin.ChatGLMPlugin")]
 [assembly: AssemblyCopyright("Copyright © LB 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

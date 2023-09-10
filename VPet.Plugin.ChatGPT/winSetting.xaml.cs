@@ -16,16 +16,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using VPet_Simulator.Windows.Interface;
 
-namespace VPet.Plugin.ChatGPTPlugin
+namespace VPet.Plugin.ChatGLMPlugin
 {
     /// <summary>
     /// winSetting.xaml 的交互逻辑
     /// </summary>
     public partial class winSetting : Window
     {
-        ChatGPTPlugin plugin;
+        ChatGLMPlugin plugin;
         long totalused = 0;
-        public winSetting(ChatGPTPlugin plugin)
+        public winSetting(ChatGLMPlugin plugin)
         {
             InitializeComponent();
             this.plugin = plugin;
