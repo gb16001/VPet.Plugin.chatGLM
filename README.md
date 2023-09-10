@@ -7,3 +7,6 @@
 
 注：本mod尚在早期阶段，只完成了基础功能demo。
 除API key设置外其他设置都没有用，包括URL设置。
+
+主类结构如下：
+![项目图片](readme_asset/chatGLMclient.png)
